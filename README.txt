@@ -7,12 +7,12 @@ Filename                : retromaze-v1i.pk3
 Release date            : N/a
 Author                  : Retromaze Team (FateLord and AOSP)
 
-Description             :    _____      _
-							|  __ \    | |
-						    | |__) |___| |_ _ __ ___  _ __ ___   __ _ _______
-						    |  _  // _ \ __| '__/ _ \| '_ ` _ \ / _` |_  / _ \
-						    | | \ \  __/ |_| | | (_) | | | | | | (_| |/ /  __/
-						    |_|  \_\___|\__|_|  \___/|_| |_| |_|\__,_/___\___|
+Description             : _____      _
+			 |  __ \    | |
+			 | |__) |___| |_ _ __ ___  _ __ ___   __ _ _______
+			 |  _  // _ \ __| '__/ _ \| '_ ` _ \ / _` |_  / _ \
+			 | | \ \  __/ |_| | | (_) | | | | | | (_| |/ /  __/
+			 |_|  \_\___|\__|_|  \___/|_| |_| |_|\__,_/___\___|
 
                           Retromaze is... well, the result of putting retro
                           games and Jumpmaze in a blender. Especially if
