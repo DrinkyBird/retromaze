@@ -9,7 +9,7 @@ But there's some text files here.
 	|   Release	  |   Version   |   Released (time in GMT)   |
 	----------------------------------------------------------
 	|     v1a     |     1.0     | 	      24-Jan-2015        |
-	|     v1a-    |     1.1    | 	      24-Jan-2015        |
+	|     v1a-    |     1.1     | 	      24-Jan-2015        |
 	|     v1b     |     1.2     | 	      25-Jan-2015        |
 	|     v1c     |     1.3     | 	  26-Jan-2015 17:18      |
 	|     v1d     |     1.4     | 	  26-Jan-2015 19:01      |
