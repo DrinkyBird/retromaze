@@ -1,3 +1,7 @@
+Sadly, no source code here.  
+However, you can have a README:
+
+```
 ===========================================================================
 Advanced engine needed  : Zandronum
 Primary purpose         : Single + coop play
@@ -25,25 +29,21 @@ Description             : _____      _
                           given permission by Doomfiend to continue
                           JumpMaze 3.
 
-Additional Credits to   :   Nintendo: 			  for their Mario textures, sounds and music
-                          	Sega: 				  for their Sonic music and textures
-                          	Nintendo: 	  	 	  for their Donkey Kong music
-                          	Nintendo: 			  for their Megaman X textures
-                          	Rockman: 			  for his remastered Megaman X intro song
-                          	Nintendo: 			  for their Metroid textures
-                          	Doomfiend: 		      JM3, and a majority of it's maps
-                          	Tormentor667: 		  for his Blood Resource Pack
-                          	Monolith Productions: for Blood
-                          	Chopkinsca:           textures from Phocas Island 2
-                          	Skulltag team:        Without Skulltag, JM3 wouldn't
-												  exist.
-                          	Zandronum team: 	  Without Zandronum, RetroMaze
-												  wouldn't exist!
-                          	FateLord: 			  for taking over JM3 and leading
-												  RetroMaze, and updating maps
-                          	AOSP: 				  Updating RJM01, RJM02, RJM04, and RJM06
-												  making RJM03 and RJMSEC01
-                          	Enjay:				  For the liquid splashes
+Additional Credits to   :   Nintendo: for their Mario textures, sounds and music
+                            Sega: for their Sonic music and textures
+                            Nintendo: for their Donkey Kong music
+                            Nintendo: for their Megaman X textures
+                            Rockman: for his remastered Megaman X intro song
+                            Nintendo: for their Metroid textures
+                            Doomfiend: JM3, and a majority of it's maps
+                            Tormentor667: for his Blood Resource Pack
+                            Monolith Productions: for Blood
+                            Chopkinsca: textures from Phocas Island 2
+                            Skulltag team:Without Skulltag, JM3 wouldn't exist.
+                            Zandronum team: Without Zandronum, RetroMaze  wouldn't exist!
+                            FateLord: for taking over JM3 and leading RetroMaze, and updating maps
+                            AOSP: Updating RJM01, RJM02, RJM04, and RJM06 making RJM03 and RJMSEC01
+                            Enjay: For the liquid splashes
 ===========================================================================
 * What is included *
 
@@ -89,3 +89,4 @@ modifications.  You may distribute this file in any electronic format (BBS,
 Diskette, CD, etc) as long as you include this file intact.  I have
 received permission from the original authors of any modified or included
 content in this file to allow further distribution.
+```
