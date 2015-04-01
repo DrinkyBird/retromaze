@@ -104,8 +104,7 @@ Difficulty Settings     : Not implemented
 Base                    : Modified
 Build Time              : N/A
 Editor(s) used          : (GZ)Doom Builder, SLADE 3
-May Not Run With...     : Anything other than Zandronum 1.3. Zandronum 2.0
-                          needs testing.
+May Not Run With...     : Anything other than Zandronum 2.0.
 
 
 * Copyright / Permissions *
