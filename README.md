@@ -1,7 +1,3 @@
-# Retromaze
-Sadly, there's no source code here.  
-But there's some text files here.
-
 ## Release info
 
 ```
