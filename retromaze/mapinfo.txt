@@ -98,13 +98,3 @@
 		allowrespawn
 		nocrouch
 	}
-	
-// ==============================================
-//  OTHER MAPS
-// ==============================================
-	map RJMDEMO1 "Retromaze" {
-		music = "R_NULL"
-		sky1 = "SKYFOG0", 0.2
-
-		intermusic = "R_DKCINT"
-	}
