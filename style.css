@@ -1,0 +1,17 @@
+html, body {
+    font-family: 'Open Sans', 'Segoe UI', 'Roboto', sans-serif;
+    font-size: 11pt;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid #777777;
+}
+
+th, td {
+    text-align: center;
+    padding: 2px;
+}
