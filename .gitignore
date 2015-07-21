@@ -1,3 +1,5 @@
 utilities/commit.bat
 acs.err
 *.o
+*.pk3
+out/
