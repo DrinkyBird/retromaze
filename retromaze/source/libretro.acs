@@ -22,7 +22,7 @@
 
 // Retromaze version.
 // This is the same as the one in the PK3 filename.
-str Rver = "v1i";
+str Rver = "v1j";
 
 // Version of this libretro.acs.
 str RscriptVersion = "v1b";
@@ -35,7 +35,7 @@ function str RSVersion (void) {
         return RscriptVersion;
 }
 
-/* // DEBUG STUFF
+// DEBUG STUFF
 Script 801 OPEN CLIENTSIDE{
 	bool centre = ( GetCvar("con_centernotify") > 0 );
 	int x = 1.5;
@@ -44,7 +44,7 @@ Script 801 OPEN CLIENTSIDE{
 	HudMessage(s:"Retromaze ", s:RVersion(); HUDMSG_FADEOUT, 800, CR_RED, 0.5, 0, 5 << 16);
     Log(s: "Retromaze (", s: RVersion(), s: ") libretro.acs ", s: RSVersion(), s: " is loaded");
 }
-*/
+//*/
 
 function void RMapInfo (str name, str author, int difficulty, str fixer, int id){
     SetFont("BIGFONT");
